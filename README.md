@@ -5,7 +5,7 @@
 ## **Description**
 >A short script in Powershell to obtain your private IP address and connection test.
 ## **How to use it**
->Copy the script ina Powershell or download the file and click right button > run in Powershell.
+>Copy the script in a Powershell or download the file and click right button > run in Powershell.
 
 ## **Installation**
 You need no installation
