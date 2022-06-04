@@ -16,5 +16,3 @@ $Button.add_click({ Test-Connection 1.1.1.1 | Out-Host })
 $Button.Text = "IP  Connection Test - Click Here"
 $Form.Controls.Add($Button)
 $Dialog = $Form.ShowDialog()
-
-
