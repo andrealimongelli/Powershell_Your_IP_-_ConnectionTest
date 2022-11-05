@@ -3,7 +3,7 @@
 
 
 ## **Description**
->A short script in Powershell to obtain private IP address on your network and connection test to Google and Cloudflare DNS.
+>A short script in Powershell to obtain private IP address on your network and connection test both to Google and Cloudflare DNS.
 ## **How to use it**
 >Copy the script in a Powershell or download the file and click right button > run in Powershell.
 
